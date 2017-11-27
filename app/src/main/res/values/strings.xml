@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyIMC</string>
+    <string name="texto_Calcule"><![CDATA[> Calcule <]]></string>
+    <string name="txtPeso">PESO</string>
+    <string name="txt_Altura">ALTURA</string>
+    <string name="txt_bt_img">SELECIONE A IMAGEM</string>
+</resources>
